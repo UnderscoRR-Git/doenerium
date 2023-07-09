@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
-⚔️ Doenerium 🛡️
+⚔️ Zonarium 🛡️
 </h1>
 
 <p align="center"> 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/doenerium
+  A doenerium fork without the dual-hooking.
  </p>
 
 ## 🌐 〢 Content
